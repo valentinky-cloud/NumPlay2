@@ -36,7 +36,7 @@ UPSILON_GAMES = crossyroad blockblast portal tetris chess flappybird pacman snak
 # NumPlay and its discreet versions: the same app, with another name and icon
 # on the calculator's home screen. Each one is a release file.
 VARIANTS = NumPlay NumPlay-Invisible NumPlay-Matrices
-NAME_NumPlay = "NumPlay"
+NAME_NumPlay = "Tableur"
 ICON_NumPlay = launcher/assets/icon.png
 NAME_NumPlay-Invisible = " "
 ICON_NumPlay-Invisible = launcher/assets/icon-invisible.png
