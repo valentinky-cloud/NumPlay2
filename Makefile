@@ -37,7 +37,7 @@ UPSILON_GAMES = crossyroad blockblast portal tetris chess flappybird pacman snak
 # on the calculator's home screen. Each one is a release file.
 VARIANTS = NumPlay NumPlay-Invisible NumPlay-Matrices
 NAME_NumPlay = "Tableur"
-ICON_NumPlay = launcher/assets/icon2.png
+ICON_NumPlay = launcher/assets/icon3.png
 NAME_NumPlay-Invisible = " "
 ICON_NumPlay-Invisible = launcher/assets/icon-invisible.png
 NAME_NumPlay-Matrices = "Matrices"
